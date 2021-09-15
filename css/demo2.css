@@ -337,7 +337,11 @@ input[type=text], input[type=password] {
 
 
 /* slide */
-.mySlides {display: block}
+.mySlides {
+  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
 img {vertical-align: middle;}
 
 /* Slideshow container */
@@ -402,15 +406,17 @@ a.prev, a.next {
 }
 
 .col-md-3 .row{
-  background-color: #48B4D4;
   margin-bottom: 1px;
+}
+
+.sidebarContent{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .sidebarContent{
   margin: 10px 0;
   color: white;
 }
-
 
 .dropdown {
   position: relative;
@@ -437,29 +443,31 @@ a.prev, a.next {
 
 .dropdown:hover .dropdown-content {display: inline-block;}
 
+img {
+  cursor: pointer;
+}
+
 img.hover-shadow {
   transition: 0.1s;
 }
 
-.hover-shadow:hover {
+.hover-shadow:hover{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.product{
-  margin-bottom: 5px;
-}
-
-img {
-  cursor: pointer;
 }
 
 .product {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+  cursor: pointer;
+  margin-bottom: 5px;
 }
 
 .txt{
   text-align: center;
 }
+
+
+
+
 
 

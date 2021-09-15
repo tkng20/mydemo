@@ -59,11 +59,11 @@
         </form>
 </div>
 
-<div class="container">
-        <div class="row" id="slide">
+<div class="container" id="banner">
+        <div class="row">
             <div class="col-md-9">
                 <div class="slideshow-container">
-                    <div class="mySlides">
+                    <div class="mySlides hover-shadow">
                         <div class="numbertext">2 / 3</div>
                         <img src="image/banner1.jpg" style="width:100%">
                         <div class="text">Caption Two</div>
@@ -76,22 +76,16 @@
                     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                     <a class="next" onclick="plusSlides(1)">&#10095;</a>
                 </div>
-                
-                <!--<br> <div style="text-align:center">
-                            <span class="dot" onclick="currentSlide(1)"></span>
-                            <span class="dot" onclick="currentSlide(2)"></span>
-                            <span class="dot" onclick="currentSlide(3)"></span>
-                        </div> -->
             </div>
             <div class="col-md-3">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="sidebarContent"><img src="image/slide4.jpg" style="width:100%;height:120px;"></div>
+                        <div class="sidebarContent hover-shadow cursor"><img src="image/slide4.jpg" style="width:100%;height:120px;"></div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
-                    <div class="sidebarContent"><img src="image/cake.gif" style="width:100%;height:120px;"></div>
+                    <div class="col-md-12 ">
+                    <div class="sidebarContent hover-shadow cursor"><img src="image/cake.gif" style="width:100%;height:120px;"></div>
                     </div>
                 </div>
             </div>
@@ -104,7 +98,7 @@
         <div class="row">
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c1.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c1.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -113,7 +107,7 @@
             </div>
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c2.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c2.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -122,7 +116,7 @@
             </div>
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c3.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c3.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -131,7 +125,7 @@
             </div>
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c4.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c4.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -140,7 +134,7 @@
             </div>
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c5.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c5.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -149,7 +143,7 @@
             </div>
             <div class="col-md-2">
                 <div class="product hover-shadow cursor">
-                    <img src="image/c6.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c6.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -161,7 +155,7 @@
         <div class="row">
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c11.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c11.jpg" style="width:100%"  >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -170,7 +164,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c7.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c7.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -179,7 +173,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c8.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c8.jpg" style="width:100%" >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -188,7 +182,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c9.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c9.jpg" style="width:100%" >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -197,7 +191,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c10.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c10.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -206,7 +200,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c12.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c12.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -218,7 +212,7 @@
         <div class="row">
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c13.jpg" style="width:100%" class="hover-shadow cursor" onclick="openModal();currentSlide(1)">
+                    <img src="image/c13.jpg" style="width:100%" onclick="openModal();currentSlide(1)">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -227,7 +221,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c14.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c14.jpg" style="width:100%" >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -236,7 +230,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c15.jpg" style="width:100%" class="hover-shadow cursor">
+                    <img src="image/c15.jpg" style="width:100%" >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -245,7 +239,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c16.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c16.jpg" style="width:100%" >
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -254,7 +248,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/c17.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/c17.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -263,7 +257,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/d18.jpg" style="width:100%"  class="hover-shadow cursor">
+                    <img src="image/d18.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
@@ -279,65 +273,32 @@
         <div class="row">
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d1.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d1.jpg" style="width:100%"  class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d2.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d2.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d3.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d3.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d4.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d4.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d5.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d5.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d6.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-        </div>
-        <hr style="border-color: #007697;">
-        <div class="row">
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d7.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d8.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d10.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d9a.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d11.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-                </div>
-            </div>
-            <div class="col-md-2">
-                <div class="product">
-                    <img src="image/d12.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d6.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
         </div>
@@ -345,32 +306,65 @@
         <div class="row">
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d13.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d7.jpg" style="width:100%"  class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d14.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d8.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d15.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d10.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d16.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d9a.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d17.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d11.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="product">
-                    <img src="image/d18.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+                    <img src="image/d12.jpg" style="width:100%" class="hover-shadow cursor">
+                </div>
+            </div>
+        </div>
+        <hr style="border-color: #007697;">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d13.jpg" style="width:100%" class="hover-shadow cursor">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d14.jpg" style="width:100%"  class="hover-shadow cursor">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d15.jpg" style="width:100%" class="hover-shadow cursor">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d16.jpg" style="width:100%" class="hover-shadow cursor">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d17.jpg" style="width:100%" class="hover-shadow cursor">
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="product">
+                    <img src="image/d18.jpg" style="width:100%" class="hover-shadow cursor">
                 </div>
             </div>
         </div>
