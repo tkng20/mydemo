@@ -15,7 +15,7 @@
 <body>
     
 <div class="about-section">
-  <h2>WELCOME TO WEBSITE</h2>
+  <h2>WELCOME TO MY WEBSITE</h2>
   <p>I have some options for you.</p>
 </div>
 
