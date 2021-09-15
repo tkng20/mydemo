@@ -100,7 +100,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c1.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Strawberry Cream</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c2.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Blueburry Cream</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c3.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Cherry Cream</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c4.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Purple Cake</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -136,7 +136,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c5.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Pink Cake</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                 <div class="product hover-shadow cursor">
                     <img src="image/c6.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
+                        <p>Orange Cream</p>
                         <p>50,000</p>
                     </div>
                 </div>
@@ -157,8 +157,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c11.jpg" style="width:100%"  >
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Chocolate Cake</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -166,8 +166,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c7.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Macaroon</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -175,8 +175,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c8.jpg" style="width:100%" >
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Fruit Cake</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -184,8 +184,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c9.jpg" style="width:100%" >
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Cherry Cake</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -193,8 +193,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c10.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Fruit Cake</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -202,8 +202,8 @@
             <div class="product hover-shadow cursor">
                     <img src="image/c12.jpg" style="width:100%">
                     <div class="txt">
-                        <p>CUP CAKE</p>
-                        <p>50,000</p>
+                        <p>Fruit Cake</p>
+                        <p>80,000</p>
                     </div>
                 </div>
             </div>
@@ -257,7 +257,7 @@
             </div>
             <div class="col-md-2">
             <div class="product hover-shadow cursor">
-                    <img src="image/d18.jpg" style="width:100%">
+                    <img src="image/c18.jpg" style="width:100%">
                     <div class="txt">
                         <p>CUP CAKE</p>
                         <p>50,000</p>
