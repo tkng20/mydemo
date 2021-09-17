@@ -8,6 +8,7 @@ if(isset($_POST['login'])){
     $password=$_POST['password'];
     
     $sql="select * from taikhoan where email='".$email."'AND matkhau='".$password."' limit 1";
+
     
     $result = $connect->query($sql);
     
